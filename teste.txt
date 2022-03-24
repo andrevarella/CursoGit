@@ -1,2 +1,3 @@
-testando primeiro commit
+Teste clone.
 testando uma atualizaçao de arquivo - git pull
+testando atualização do clone.
